@@ -39,6 +39,5 @@ The 3D ResNet-34 model utilized in this project is trained on the [**Kinetics da
 ## Results
 Below are some results of developed model on test videos:-
 
-| Test Video | 
 
-| ![alt text](https://github.com/krishnapriya-nynaru/Real-Time-Human-Activity-Recognition-from-Video/blob/main/Human_Activity%20_Recognition/output_videos/output.gif) | 
+![alt text](https://github.com/krishnapriya-nynaru/Real-Time-Human-Activity-Recognition-from-Video/blob/main/Human_Activity%20_Recognition/output_videos/output.gif) 
