@@ -18,7 +18,7 @@ The 3D ResNet-34 model utilized in this project is trained on the [**Kinetics da
 - You can view the complete list of classes that the model can identify [***here***](https://github.com/krishnapriya-nynaru/Real-Time-Human-Activity-Recognition-from-Video/blob/main/Human_Activity%20_Recognition/classes/action_recognition_kinetics.txt).
 
 ## Training
-- he pre-trained weights for the 3D convolutional ResNet-34 model, which has been trained on the Kinetics dataset, can be downloaded from [***here***](https://github.com/shuvamdas/human-activity-recognition/blob/master/resnet-34_kinetics.onnx).
+- The pre-trained weights for the 3D convolutional ResNet-34 model, which has been trained on the Kinetics dataset, can be downloaded from [***here***](https://github.com/shuvamdas/human-activity-recognition/blob/master/resnet-34_kinetics.onnx).
 
 ## Usage
 1. Clone the repository: 
